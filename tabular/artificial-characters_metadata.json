@@ -1,1 +1,1 @@
-{"cat_columns": ["V1"], "int_columns": ["V2", "V3", "V4", "V5"], "num_columns": ["V6", "V7"], "label_columns": ["Class"]}
+{"cat_columns": ["V1"], "int_columns": ["V2", "V3", "V4", "V5"], "float_columns": ["V6", "V7"], "label_columns": ["Class"]}
