@@ -1,0 +1,1 @@
+{"float_columns": ["age", "fnlwgt", "education-num", "capital-gain", "capital-loss", "hours-per-week"], "int_columns": [], "cat_columns": ["workclass", "education", "marital-status", "occupation", "relationship", "race", "sex", "native-country"], "label": "income"}
