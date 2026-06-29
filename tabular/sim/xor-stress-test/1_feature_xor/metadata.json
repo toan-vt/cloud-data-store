@@ -1,0 +1,7 @@
+{
+    "numerical": [
+        "num_feat_0"
+    ],
+    "categorical": [],
+    "label": "target"
+}
