@@ -1,7 +1,8 @@
 {
-    "numerical": [
+    "cat_columns": [],
+    "int_columns": [],
+    "float_columns": [
         "num_feat_0"
     ],
-    "categorical": [],
-    "label": "target"
+    "label_columns": ["target"]
 }

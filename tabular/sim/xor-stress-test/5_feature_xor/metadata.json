@@ -1,11 +1,12 @@
 {
-    "numerical": [
+    "cat_columns": [],
+    "int_columns": [],
+    "float_columns": [
         "num_feat_0",
         "num_feat_1",
         "num_feat_2",
         "num_feat_3",
         "num_feat_4"
     ],
-    "categorical": [],
-    "label": "target"
+    "label_columns": ["target"]
 }
